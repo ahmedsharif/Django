@@ -1,6 +1,0 @@
-{
-    "python.pythonPath": "/home/ahmadsharif/workspace/music-env/bin/python3.5",
-    "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true,
-    "python.linting.pylintPath": "/home/ahmadsharif/workspace/music-env/bin/pylint"
-}
